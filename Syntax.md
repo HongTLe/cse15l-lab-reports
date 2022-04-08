@@ -3,8 +3,8 @@
 **Bold text**  
 *Italic text*  
 [Link Markdown](https://commonmark.org/help/)  
-> Bloackquote  
-* Icecream  
+> Blackquote  
+* Ice cream  
 * Cake  
 * Flan  
 1. Coffee  
