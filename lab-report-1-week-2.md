@@ -26,7 +26,7 @@
     - Use the command scp followed by the file name followed by the directory you want to move and copy to (If prompted for a password, enter your password)
     - Log into server to check if successful using the command "ls"  
 
-    If successful, a similar screen should be shown:
+    If successful, a similar screen should be shown:  
     ![Image](scpSuccess.png)
 
  5. **Setting an SSH Key**
