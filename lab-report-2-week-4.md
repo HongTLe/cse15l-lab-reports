@@ -24,12 +24,12 @@
     - The symptom is the same as the first test where we get a Java heap space as an error due to the programming looping multiple times due to a bug. This becuase there's an empty line after the final ].
 
  3. **Code Change 3**
-    - Screenshot of third code change:
+    - Screenshot of third code change:  
     ![Image](Change3.png)
 
-    - [Link to thirds test file with failure inducing input](Test3.md)
+    - [Link to thirds test file with failure inducing input](Test3.md)  
 
-    - Failure Output when Running:
+    - Failure Output when Running:  
     ![Image](output3.png)
 
     - The original program doesn't differentiate between actual links and images which are very similar to each other in format. The bug was that the program read what's inside the parenthesis of the image when it's supposed to read only that of the links. Therefore the symptom is that the output contains another "link" that it shouldn't contain.
