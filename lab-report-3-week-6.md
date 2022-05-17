@@ -8,5 +8,8 @@
     * scp command to copy file  
     ![Image](scp.png)
 
- 2. **Setup Github Access from ieng6**
-    *
+ 2. **Setup Github Access from ieng6**  
+    * public key on Github
+    ![Image](github.png)
+    * public key in user account
+    ![Image]()
