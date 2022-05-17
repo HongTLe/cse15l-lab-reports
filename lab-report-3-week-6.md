@@ -11,5 +11,9 @@
  2. **Setup Github Access from ieng6**  
     * public key on Github
     ![Image](github.png)
-    * public key in user account
-    ![Image]()
+    * public and private key in user account
+    ![Image](ssh.png)
+    * git commit
+
+    *git push
+    
