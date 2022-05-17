@@ -3,4 +3,3 @@
  1. **Streamlining ssh Configuration**  
     * .ssh/config file edited using VScode  
     ![Image]()
-    fdsjkl;gjdsal;
