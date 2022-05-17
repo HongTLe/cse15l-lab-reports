@@ -2,4 +2,6 @@
 
  1. **Streamlining ssh Configuration**  
     * .ssh/config file edited using VScode  
-    ![Image]()
+    ![Image](config.png)
+    * ssh command login  
+    
