@@ -14,6 +14,8 @@
     * public and private key in user account
     ![Image](ssh.png)
     * git commit
-
-    *git push
-    
+    ![Image](commit.png)
+    * git push
+    ![Image](push.png)
+    * [Resulting Commit Link](https://github.com/HongTLe/testing/commit/6ceb605d2ae6e8b4f384bffc6ca0daaa97232b60)
+ 3. ** 
