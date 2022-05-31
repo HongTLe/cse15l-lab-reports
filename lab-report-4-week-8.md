@@ -4,4 +4,4 @@
  [Reviewed markdown parser](https://github.com/anhthony/markdown-parser.git)  
  
  **Expected Outcome**  
- Snipppet 1: 
+ Snipppet 1:
