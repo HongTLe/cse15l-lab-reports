@@ -27,4 +27,9 @@
  ![Image](rev2.png)  
  Snippet 3: Failed  
  ![Image](rev3.png)   
+
+ **Code Changes**  
+ 1. Only a small code change is needed for snippet 1 to work. An if statement is needed to check inline code with backticks. If there's a backtick inside brackets then it doesn't count as a link but if there's a backtick inside the parenthesis, then the link will contain a backtick.
+ 2. Only a small code change is needed for snippet 2 to work. The code to find the end parenthesis should be modified since the end parenthesis didn't appear in the link found.
+ 3. Snippet 3 also needs a small code change. Once again the code to find end parenthesis needs to be adjusted because one of the links that was found was the one that didn't have an end parenthesis in the format and the third link that has a long space before the closing parenthesis should still return a link.
  
