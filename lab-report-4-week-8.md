@@ -20,5 +20,11 @@
 
  **Markdown Parser Reviewed Implementation**  
  Tests:
- ![Image](rev.png)  
+ ![Image](rev.png) 
+ Snippet 1: Failed  
+ ![Image](rev1.png)  
+ Snippet 2: Failed  
+ ![Image](rev2.png)  
+ Snippet 3: Failed  
+ ![Image](rev3.png)   
  
